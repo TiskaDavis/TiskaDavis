@@ -35,5 +35,5 @@ Experienced Technical Writer with a robust background in IT and a passion for cr
 - **Communication:** Translating complex technical information into user-friendly documents and collaborating with cross-functional teams.
 
 ## 📫 Connect with Me
-- [LinkedIn](www.linkedin.com/in/tiska-davis)  
+- [LinkedIn](https://www.linkedin.com/in/tiska-davis)  
 - [GitHub](https://github.com/TiskaDavis)
