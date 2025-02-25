@@ -1,39 +1,64 @@
 # Hi, I'm Tiska Davis 👋🏾
 
-## 💼 Professional Summary
-Experienced Technical Writer with a robust background in IT and a passion for creating clear, user-friendly documentation. Proven ability to develop and maintain comprehensive technical content that ensures high-quality and accessible information for end-users. I am seeking to join a dynamic company where I can leverage my skills in improving and managing technical documentation. References and samples are available upon request.
+## 📌 About Me
 
-## 🎓 Education
-- **Master of Science in Professional and Technical Writing**  
-  *Middle Georgia State University, 2022*
-- **Bachelor of Science in Information Technology**  
-  *Middle Georgia State University, 2014*
+I'm a **Technical Writer** dedicated to crafting clear, user-friendly documentation that enhances accessibility and improves user experience. With expertise in **knowledge management, content strategy, and technical documentation**, I specialize in streamlining information delivery, optimizing workflows, and implementing self-service solutions.
+
+As the **sole Technical Writer at Shared Logic**, I took the initiative to research and implement **MadCap Flare**, centralizing and optimizing the company’s documentation process to improve content accessibility and efficiency.
+
+Previously, as an **IT Technical Writer at BASF**, I collaborated with support technicians and customers to create intuitive self-help documents, instructional materials, and troubleshooting guides for in-house software, including **server-supported virtual applications**. Additionally, I contributed to onboarding and training programs, helping new employees seamlessly integrate with role-specific software and hardware setups.
+
+I'm passionate about working with companies that prioritize **exceptional documentation and media solutions**—helping them simplify complex technical information to create a seamless experience for users.
+
+## 🛠️ Skills & Tools
+
+- **Technical Writing & Editing**
+- **Documentation Tools:** MadCap Flare & Central, Confluence, Oxygen XML, DITA
+- **Content Management:** Zendesk, Freshdesk, ServiceNow, Notion, Single-Sourcing, GitHub
+- **Web Technologies:** HTML, CSS, XML
+- **Multimedia Tools:** Camtasia, Snagit, Screencast, Adobe Photoshop, Canva
+- **Collaboration & Communication:** Agile, SME Engagement, Knowledge Base Management
 
 ## 💼 Professional Experience
-### Technical Writer (Remote)  
-**Shared Logic | Holland, OH**  
-*November 2021 – Present*
-- Develops and maintains a comprehensive, searchable knowledgebase website with up-to-date articles.
-- Creates, edits, and publishes technical documentation and quarterly newsletters.
-- Manages database content and collaborates with cross-functional teams to produce high-quality documentation.
-- Utilizes software like MadCap Flare, Freshdesk, Zendesk, ConnectWise, Notion, and HubSpot to manage and publish content efficiently.
 
-### IT Specialist  
-**BASF | McIntyre, GA**  
-*May 2017 – November 2021*
-- Provided comprehensive IT support and resolved software and hardware issues for end-users.
-- Created and maintained IT-related documentation, including network configurations, system operations, and troubleshooting guides.
-- Developed training modules and instructional videos to enhance user understanding of IT systems and software applications.
-- Implemented document management solutions for secure and efficient handling of technical documentation.
-- Leveraged skills in XML, HTML, CSS, and Azure to support IT projects and documentation needs.
+### 🔹 Technical Writer (Remote) – Shared Logic | Nov 2021 – Present
 
-## 🛠️ Skills
-- **Technical Writing:** Writing, editing, formatting, and publishing technical documentation.
-- **Software:** MadCap Flare, Freshdesk, Zendesk, Notion, GitHub, Oxygen XML Author, TechSmith (Camtasia, Snagit, Screencast).
-- **Web Technologies:** XML, HTML, CSS.
-- **IT Proficiency:** Troubleshooting software issues, managing document management solutions, creating training modules and videos.
-- **Communication:** Translating complex technical information into user-friendly documents and collaborating with cross-functional teams.
+- Sole Technical Writer responsible for maintaining and optimizing all documentation.
+- Researched and led the implementation of **MadCap Flare**, streamlining documentation workflows and enabling single-sourcing.
+- Developed and managed a **centralized knowledge base**, improving search success rates, user satisfaction, and content engagement.
+- Created and maintained user guides, release notes, FAQs, and quarterly newsletters.
+- Enhanced **self-service resolution rates** by optimizing documentation for customer support teams.
+- Collaborated with SMEs, developers, and support teams to ensure accuracy and consistency.
+- Established a **contingency plan** for documentation continuity and support.
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tiska-davis)  
-- [GitHub](https://github.com/TiskaDavis)
+### 🔹 IT Technical Writer – BASF | May 2017 – Nov 2021
+
+- Developed IT documentation, including **network configurations, troubleshooting guides, and SOPs**.
+- Created **training manuals and instructional videos** to improve system adoption.
+- Managed **document migration projects** using Confluence for secure content handling.
+- Updated internal documentation to align with system changes and best practices.
+
+## 🎓 Education
+
+- **Master of Science in Professional & Technical Writing** – Middle Georgia State University (2022)
+- **Bachelor of Science in Information Technology** – Middle Georgia State University (2014)
+
+## 🔍 Additional Experience
+
+- Led **SME meetings** to gather insights and validate documentation accuracy.
+- Conducted **on-site visits** to understand user pain points and improve documentation relevance.
+
+## 📂 Work Examples
+
+- [MadCap Flare Website](https://github.com/TiskaDavis/MadCap-Flare-Website-Project/blob/master/README.md)
+- [MadCap Flare PDF Document](https://github.com/TiskaDavis/Flare-PDF-File-Sample)
+- [Sample DITA XML Documents and Website](https://github.com/TiskaDavis/DITA-XML-Documents/blob/main/README.md)
+- [Before and After Document Examples](https://github.com/TiskaDavis/Sample-Before-After-Documents/blob/main/README.md)
+- [Case Studies](https://github.com/TiskaDavis/Case-Studies/blob/main/README.md)
+
+---
+
+Let's connect! Feel free to reach out if you’d like to discuss technical writing, documentation best practices, or anything in between. 🚀
+
+
+
