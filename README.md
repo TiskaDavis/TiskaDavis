@@ -23,19 +23,18 @@ I'm passionate about working with companies that prioritize **exceptional docume
 
 ### 🔹 Technical Writer (Remote) – Shared Logic | Nov 2021 – Present
 
-- Sole Technical Writer responsible for maintaining and optimizing all documentation.
-- Researched and led the implementation of **MadCap Flare**, streamlining documentation workflows and enabling single-sourcing.
-- Developed and managed a **centralized knowledge base**, improving search success rates, user satisfaction, and content engagement.
-- Created and maintained user guides, release notes, FAQs, and quarterly newsletters.
-- Enhanced **self-service resolution rates** by optimizing documentation for customer support teams.
-- Collaborated with SMEs, developers, and support teams to ensure accuracy and consistency.
-- Established a **contingency plan** for documentation continuity and support.
+- Use data analytics to optimize the knowledge base, enhancing search success, user satisfaction, and engagement.
+- Analyze user feedback to prioritize and update user guides, release notes, and FAQs.
+- Implement MadCap Flare and other tools to streamline documentation workflows.
+- Improve self-service resolution rates by optimizing documentation based on data insights.
+- Collaborate with SMEs, developers, and support teams to ensure content accuracy.
+- Develop contingency plans for knowledge base continuity using data-driven risk assessments.
 
 ### 🔹 IT Technical Writer – BASF | May 2017 – Nov 2021
 
-- Developed IT documentation, including **network configurations, troubleshooting guides, and SOPs**.
-- Created **training manuals and instructional videos** to improve system adoption.
-- Managed **document migration projects** using Confluence for secure content handling.
+- Developed IT documentation, including network configurations, troubleshooting guides, and SOPs.
+- Created training manuals and instructional videos to enhance system adoption.
+- Managed document migration projects using Confluence for secure content handling.
 - Updated internal documentation to align with system changes and best practices.
 
 ## 🎓 Education
@@ -59,6 +58,4 @@ I'm passionate about working with companies that prioritize **exceptional docume
 ---
 
 Let's connect! Feel free to reach out if you’d like to discuss technical writing, documentation best practices, or anything in between. 🚀
-
-
 
